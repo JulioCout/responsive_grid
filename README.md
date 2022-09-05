@@ -1,4 +1,4 @@
-# Componente responsivo com cards.
+# Componente de cards responsivo.
 
 Um componente responsivo para exposição de cards.  
 Acesse em: https://jobs-component.netlify.app/
